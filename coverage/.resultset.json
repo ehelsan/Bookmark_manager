@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/leslie/makersacademy/bookmark-manager/app.rb": {
+      "/Users/ehelsan/Projects/bookmark-manager/app.rb": {
         "lines": [
           1,
           1,
@@ -12,15 +12,35 @@
           null,
           null,
           1,
+          2,
+          null,
+          null,
+          1,
           1,
           null,
           null,
           null
         ]
       },
-      "/Users/leslie/makersacademy/bookmark-manager/spec/features/hello_world_spec.rb": {
+      "/Users/ehelsan/Projects/bookmark-manager/spec/features/bookmarks_page_spec.rb": {
         "lines": [
           1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ehelsan/Projects/bookmark-manager/spec/features/index_page_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           1,
           1,
           1,
@@ -29,6 +49,6 @@
         ]
       }
     },
-    "timestamp": 1624285367
+    "timestamp": 1624288073
   }
 }

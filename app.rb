@@ -6,8 +6,12 @@ class BookmarkManager < Sinatra::Base
     register Sinatra::Reloader 
   end
 
-  get '/hello-world' do
-    'Hello World!'
+  get '/' do
+    erb :index
+  end
+
+  get '/bookmarks' do
+    erb :bookmarks
   end
     
 end
