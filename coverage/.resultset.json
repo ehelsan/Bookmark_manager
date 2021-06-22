@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/ehelsan/Projects/bookmark-manager/app.rb": {
+      "/Users/ehelsan/Projects/bookmarks/bookmark-manager/app.rb": {
         "lines": [
           1,
           1,
@@ -17,7 +17,7 @@
           null,
           null,
           1,
-          null,
+          1,
           1,
           null,
           null,
@@ -25,27 +25,35 @@
           null
         ]
       },
-      "/Users/ehelsan/Projects/bookmark-manager/lib/bookmark.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/ehelsan/Projects/bookmark-manager/spec/bookmark_spec.rb": {
+      "/Users/ehelsan/Projects/bookmarks/bookmark-manager/lib/bookmark.rb": {
         "lines": [
           1,
           null,
           1,
           1,
+          2,
+          2,
+          8,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/ehelsan/Projects/bookmarks/bookmark-manager/spec/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
           1,
           1,
           null,
+          1,
           1,
           1,
           null,
@@ -53,19 +61,20 @@
           null
         ]
       },
-      "/Users/ehelsan/Projects/bookmark-manager/spec/features/bookmarks_page_spec.rb": {
+      "/Users/ehelsan/Projects/bookmarks/bookmark-manager/spec/features/bookmarks_page_spec.rb": {
         "lines": [
           1,
           1,
           1,
           1,
           1,
+          1,
           null,
           null,
           null
         ]
       },
-      "/Users/ehelsan/Projects/bookmark-manager/spec/features/index_page_spec.rb": {
+      "/Users/ehelsan/Projects/bookmarks/bookmark-manager/spec/features/index_page_spec.rb": {
         "lines": [
           1,
           1,
@@ -81,6 +90,6 @@
         ]
       }
     },
-    "timestamp": 1624355504
+    "timestamp": 1624378908
   }
 }
