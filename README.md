@@ -3,7 +3,7 @@
 week 6, pair programming challenge.
 
 
-Process model:
+Process model diagram:
 
 
 
