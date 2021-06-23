@@ -9,7 +9,7 @@
           null,
           1,
           1,
-          0,
+          1,
           null,
           null,
           1,
@@ -31,7 +31,12 @@
           null,
           1,
           1,
+          null,
           2,
+          2,
+          0,
+          null,
+          null,
           2,
           8,
           null,
@@ -52,7 +57,10 @@
           1,
           1,
           1,
-          null,
+          1,
+          1,
+          1,
+          1,
           1,
           1,
           1,
@@ -63,6 +71,10 @@
       },
       "/Users/ehelsan/Projects/bookmarks/bookmark-manager/spec/features/bookmarks_page_spec.rb": {
         "lines": [
+          1,
+          1,
+          1,
+          1,
           1,
           1,
           1,
@@ -90,6 +102,6 @@
         ]
       }
     },
-    "timestamp": 1624378908
+    "timestamp": 1624458231
   }
 }
