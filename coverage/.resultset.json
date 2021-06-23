@@ -13,14 +13,27 @@
           null,
           null,
           1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          2,
           2,
           null,
           null,
+          null,
           1,
-          1,
-          1,
+          0,
+          0,
           null,
           null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
           null,
           null
         ]
@@ -32,19 +45,24 @@
           1,
           1,
           null,
-          2,
-          2,
+          4,
+          4,
+          null,
           0,
           null,
           null,
-          2,
-          8,
+          4,
+          11,
           null,
           null,
+          1,
+          4,
+          4,
+          null,
+          0,
           null,
           null,
-          null,
-          null,
+          4,
           null,
           null
         ]
@@ -66,6 +84,13 @@
           1,
           null,
           null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -77,23 +102,13 @@
           1,
           1,
           1,
-          1,
-          1,
-          1,
-          1,
-          null,
           null,
           null
         ]
       },
-      "/Users/ehelsan/Projects/bookmarks/bookmark-manager/spec/features/index_page_spec.rb": {
+      "/Users/ehelsan/Projects/bookmarks/bookmark-manager/spec/features/test_infrastructure_spec.rb": {
         "lines": [
           1,
-          1,
-          1,
-          1,
-          null,
-          null,
           1,
           1,
           1,
@@ -102,6 +117,6 @@
         ]
       }
     },
-    "timestamp": 1624458231
+    "timestamp": 1624462659
   }
 }
