@@ -1,0 +1,2 @@
+ALTER TABLE bookmark ADD COLUMN title VARCHAR(60);
+
